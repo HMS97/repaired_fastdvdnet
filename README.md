@@ -1,3 +1,7 @@
+# Copied from https://github.com/m-tassano/fastdvdnet
+# reparied the version on DALI loader
+# change model's input on 3 continues images
+
 # FastDVDnet
 
 A state-of-the-art, simple and fast network for Deep Video Denoising which uses no motion compensation.
